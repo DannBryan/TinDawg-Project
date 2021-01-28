@@ -1,2 +1,1 @@
-# TinDawg-Project
-First Dr Angela Yu project
+TinDog Starting Files
